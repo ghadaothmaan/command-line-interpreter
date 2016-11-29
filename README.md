@@ -1,2 +1,2 @@
 # command-line-interpreter
-Command Line Interpreter most functions implemented using java.
+Command line interpreter implemented using java. Basic commands were covered.
